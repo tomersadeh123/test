@@ -1,0 +1,1371 @@
+[
+  {
+    "id": "f6bd2eba-3fee-42c0-9e2f-a5bfe6cdd4ce",
+    "username": "tomersad",
+    "email": "tomersadeh7@gmail.com",
+    "password": "jenny",
+    "events": [
+      {
+        "kind": "calendar#event",
+        "etag": "\"3434296980088000\"",
+        "id": "vvggia1ihh7g957vv9c3ckq7ns",
+        "status": "confirmed",
+        "htmlLink": "https://www.google.com/calendar/event?eid=dnZnZ2lhMWloaDdnOTU3dnY5YzNja3E3bnMgdG9tZXJzYWRlaDdAbQ",
+        "created": "2024-05-31T09:41:30.000Z",
+        "updated": "2024-05-31T09:41:30.044Z",
+        "summary": "Attend a cultural event or exhibition",
+        "creator": {
+          "email": "tomersadeh7@gmail.com",
+          "self": true
+        },
+        "organizer": {
+          "email": "tomersadeh7@gmail.com",
+          "self": true
+        },
+        "start": {
+          "dateTime": "2024-06-02T07:00:00+03:00",
+          "timeZone": "Asia/Jerusalem"
+        },
+        "end": {
+          "dateTime": "2024-06-02T21:00:00+03:00",
+          "timeZone": "Asia/Jerusalem"
+        },
+        "iCalUID": "vvggia1ihh7g957vv9c3ckq7ns@google.com",
+        "sequence": 0,
+        "reminders": {
+          "useDefault": true
+        },
+        "eventType": "default"
+      },
+      {
+        "kind": "calendar#event",
+        "etag": "\"3434465590604000\"",
+        "id": "8n5qh12pm7o4ltkeo8e8o9j0bg",
+        "status": "confirmed",
+        "htmlLink": "https://www.google.com/calendar/event?eid=OG41cWgxMnBtN280bHRrZW84ZThvOWowYmcgdG9tZXJzYWRlaDdAbQ",
+        "created": "2024-06-01T09:06:35.000Z",
+        "updated": "2024-06-01T09:06:35.302Z",
+        "summary": "Plan a day trip or an outdoor activity",
+        "creator": {
+          "email": "tomersadeh7@gmail.com",
+          "self": true
+        },
+        "organizer": {
+          "email": "tomersadeh7@gmail.com",
+          "self": true
+        },
+        "start": {
+          "dateTime": "2024-06-03T07:00:00+03:00",
+          "timeZone": "Asia/Jerusalem"
+        },
+        "end": {
+          "dateTime": "2024-06-03T11:15:00+03:00",
+          "timeZone": "Asia/Jerusalem"
+        },
+        "iCalUID": "8n5qh12pm7o4ltkeo8e8o9j0bg@google.com",
+        "sequence": 0,
+        "reminders": {
+          "useDefault": true
+        },
+        "eventType": "default"
+      },
+      {
+        "kind": "calendar#event",
+        "etag": "\"3433936095128000\"",
+        "id": "2jp70b2pk53cf470j3i9r6b8f5",
+        "status": "confirmed",
+        "htmlLink": "https://www.google.com/calendar/event?eid=MmpwNzBiMnBrNTNjZjQ3MGozaTlyNmI4ZjUgdG9tZXJzYWRlaDdAbQ",
+        "created": "2024-05-29T07:34:07.000Z",
+        "updated": "2024-05-29T07:34:07.564Z",
+        "summary": "test",
+        "creator": {
+          "email": "tomersadeh7@gmail.com",
+          "self": true
+        },
+        "organizer": {
+          "email": "tomersadeh7@gmail.com",
+          "self": true
+        },
+        "start": {
+          "dateTime": "2024-06-03T11:15:00+03:00",
+          "timeZone": "Asia/Jerusalem"
+        },
+        "end": {
+          "dateTime": "2024-06-03T19:00:00+03:00",
+          "timeZone": "Asia/Jerusalem"
+        },
+        "iCalUID": "2jp70b2pk53cf470j3i9r6b8f5@google.com",
+        "sequence": 0,
+        "reminders": {
+          "useDefault": true
+        },
+        "eventType": "default"
+      },
+      {
+        "kind": "calendar#event",
+        "etag": "\"3433936086524000\"",
+        "id": "66pjjnppeup0pk1906nd4jd3ju",
+        "status": "confirmed",
+        "htmlLink": "https://www.google.com/calendar/event?eid=NjZwampucHBldXAwcGsxOTA2bmQ0amQzanUgdG9tZXJzYWRlaDdAbQ",
+        "created": "2024-05-29T07:34:03.000Z",
+        "updated": "2024-05-29T07:34:03.262Z",
+        "summary": "dfgdfg",
+        "creator": {
+          "email": "tomersadeh7@gmail.com",
+          "self": true
+        },
+        "organizer": {
+          "email": "tomersadeh7@gmail.com",
+          "self": true
+        },
+        "start": {
+          "dateTime": "2024-06-05T10:15:00+03:00",
+          "timeZone": "Asia/Jerusalem"
+        },
+        "end": {
+          "dateTime": "2024-06-05T18:30:00+03:00",
+          "timeZone": "Asia/Jerusalem"
+        },
+        "iCalUID": "66pjjnppeup0pk1906nd4jd3ju@google.com",
+        "sequence": 0,
+        "reminders": {
+          "useDefault": true
+        },
+        "eventType": "default"
+      },
+      {
+        "kind": "calendar#event",
+        "etag": "\"3433936311222000\"",
+        "id": "1a0vjbujohmc3qh2bnpur9hn62",
+        "status": "confirmed",
+        "htmlLink": "https://www.google.com/calendar/event?eid=MWEwdmpidWpvaG1jM3FoMmJucHVyOWhuNjIgdG9tZXJzYWRlaDdAbQ",
+        "created": "2024-05-29T07:35:55.000Z",
+        "updated": "2024-05-29T07:35:55.611Z",
+        "summary": "test12132324",
+        "creator": {
+          "email": "tomersadeh7@gmail.com",
+          "self": true
+        },
+        "organizer": {
+          "email": "tomersadeh7@gmail.com",
+          "self": true
+        },
+        "start": {
+          "dateTime": "2024-06-08T10:30:00+03:00",
+          "timeZone": "Asia/Jerusalem"
+        },
+        "end": {
+          "dateTime": "2024-06-08T20:15:00+03:00",
+          "timeZone": "Asia/Jerusalem"
+        },
+        "iCalUID": "1a0vjbujohmc3qh2bnpur9hn62@google.com",
+        "sequence": 0,
+        "reminders": {
+          "useDefault": true
+        },
+        "eventType": "default"
+      },
+      {
+        "kind": "calendar#event",
+        "etag": "\"3434626775906000\"",
+        "id": "th8m5sv37i3u1t6klegf8g1rqo",
+        "status": "confirmed",
+        "htmlLink": "https://www.google.com/calendar/event?eid=dGg4bTVzdjM3aTN1MXQ2a2xlZ2Y4ZzFycW8gdG9tZXJzYWRlaDdAbQ",
+        "created": "2024-06-02T07:29:47.000Z",
+        "updated": "2024-06-02T07:29:47.953Z",
+        "summary": "Watch a movie or a TV show",
+        "creator": {
+          "email": "tomersadeh7@gmail.com",
+          "self": true
+        },
+        "organizer": {
+          "email": "tomersadeh7@gmail.com",
+          "self": true
+        },
+        "start": {
+          "dateTime": "2024-06-03T19:00:00+03:00",
+          "timeZone": "Asia/Jerusalem"
+        },
+        "end": {
+          "dateTime": "2024-06-03T21:00:00+03:00",
+          "timeZone": "Asia/Jerusalem"
+        },
+        "iCalUID": "th8m5sv37i3u1t6klegf8g1rqo@google.com",
+        "sequence": 0,
+        "reminders": {
+          "useDefault": true
+        },
+        "eventType": "default"
+      },
+      {
+        "kind": "calendar#event",
+        "etag": "\"3434983383300000\"",
+        "id": "6tgi5sg141to6rmud1uqp9uo6i",
+        "status": "confirmed",
+        "htmlLink": "https://www.google.com/calendar/event?eid=NnRnaTVzZzE0MXRvNnJtdWQxdXFwOXVvNmkgdG9tZXJzYWRlaDdAbQ",
+        "created": "2024-06-04T09:01:31.000Z",
+        "updated": "2024-06-04T09:01:31.650Z",
+        "creator": {
+          "email": "tomersadeh7@gmail.com",
+          "self": true
+        },
+        "organizer": {
+          "email": "tomersadeh7@gmail.com",
+          "self": true
+        },
+        "start": {
+          "dateTime": "2024-06-04T12:15:00+03:00",
+          "timeZone": "Asia/Jerusalem"
+        },
+        "end": {
+          "dateTime": "2024-06-04T21:30:00+03:00",
+          "timeZone": "Asia/Jerusalem"
+        },
+        "iCalUID": "6tgi5sg141to6rmud1uqp9uo6i@google.com",
+        "sequence": 0,
+        "reminders": {
+          "useDefault": true
+        },
+        "eventType": "default"
+      }
+    ],
+    "freeTime": [
+      {
+        "start": "2024-06-04T17:38:06",
+        "end": "2024-06-04T21:38:06",
+        "duration": 240
+      },
+      {
+        "start": "2024-06-05T07:00:00",
+        "end": "2024-06-05T10:15:00",
+        "duration": 195
+      },
+      {
+        "start": "2024-06-05T18:30:00",
+        "end": "2024-06-05T21:00:00",
+        "duration": 150
+      },
+      {
+        "start": "2024-06-06T07:00:00",
+        "end": "2024-06-06T21:00:00",
+        "duration": 840
+      },
+      {
+        "start": "2024-06-07T07:00:00",
+        "end": "2024-06-07T21:00:00",
+        "duration": 840
+      },
+      {
+        "start": "2024-06-08T07:00:00",
+        "end": "2024-06-08T10:30:00",
+        "duration": 210
+      },
+      {
+        "start": "2024-06-08T20:15:00",
+        "end": "2024-06-08T21:00:00",
+        "duration": 45
+      },
+      {
+        "start": "2024-06-09T07:00:00",
+        "end": "2024-06-09T21:00:00",
+        "duration": 840
+      },
+      {
+        "start": "2024-06-10T07:00:00",
+        "end": "2024-06-10T21:00:00",
+        "duration": 840
+      },
+      {
+        "start": "2024-06-11T07:00:00",
+        "end": "2024-06-11T21:00:00",
+        "duration": 840
+      }
+    ]
+  },
+  {
+    "id": "33dddf7d-d8d7-4ca2-a096-c139813e4c50",
+    "username": "alonsela",
+    "email": "alon.sela8@gmail.com",
+    "password": "1234",
+    "events": [
+      {
+        "kind": "calendar#event",
+        "etag": "\"3417011014186000\"",
+        "id": "49a3d0gn3cqnle9s6lr8jq28af",
+        "status": "confirmed",
+        "htmlLink": "https://www.google.com/calendar/event?eid=NDlhM2QwZ24zY3FubGU5czZscjhqcTI4YWYgYWxvbi5zZWxhOEBt",
+        "created": "2024-02-21T08:51:47.000Z",
+        "updated": "2024-02-21T08:51:47.093Z",
+        "summary": "תור לבקשה לדרכון ביומטרי",
+        "description": "תור לבקשה לדרכון ביומטרי.\n<p>על מנת להגיע מוכן לתור יש להכין:</p><ul><li><a href=https://govforms.gov.il/mw/forms/biopassport%40piba.gov.il>לתשלום אגרה מוזלת על דרכון למשלמים באתר</a></p></li><li><p>חובה להביא תעודת זהות ודרכון ישראלי אם קיים ותקף</p></li><li><p>עולים - יש להביא דרכון זר או תעודת עולה</p></li><li>לתשלום אגרה</li></ul>",
+        "location": "לשכת חולון, שדרות ירושלים 164, חולון",
+        "colorId": "5",
+        "creator": {
+          "email": "alon.sela8@gmail.com",
+          "self": true
+        },
+        "organizer": {
+          "email": "alon.sela8@gmail.com",
+          "self": true
+        },
+        "start": {
+          "dateTime": "2024-06-16T10:12:00+03:00",
+          "timeZone": "Asia/Jerusalem"
+        },
+        "end": {
+          "dateTime": "2024-06-16T10:24:00+03:00",
+          "timeZone": "Asia/Jerusalem"
+        },
+        "iCalUID": "49a3d0gn3cqnle9s6lr8jq28af@google.com",
+        "sequence": 0,
+        "reminders": {
+          "useDefault": true
+        },
+        "eventType": "default"
+      },
+      {
+        "kind": "calendar#event",
+        "etag": "\"3413727141680000\"",
+        "id": "6frd0re66dqaphvgiameun4ckg",
+        "status": "confirmed",
+        "htmlLink": "https://www.google.com/calendar/event?eid=NmZyZDByZTY2ZHFhcGh2Z2lhbWV1bjRja2cgYWxvbi5zZWxhOEBt",
+        "created": "2024-02-02T08:46:10.000Z",
+        "updated": "2024-02-02T08:46:10.840Z",
+        "summary": "תור לבקשה לדרכון ביומטרי",
+        "description": "תור לבקשה לדרכון ביומטרי.\n<p>על מנת להגיע מוכן לתור יש להכין:</p><ul><li><a href=https://govforms.gov.il/mw/forms/biopassport%40piba.gov.il>לתשלום אגרה מוזלת על דרכון למשלמים באתר</a></p></li><li><p>חובה להביא תעודת זהות ודרכון ישראלי אם קיים ותקף</p></li><li><p>עולים - יש להביא דרכון זר או תעודת עולה</p></li><li>לתשלום אגרה</li></ul>",
+        "colorId": "4",
+        "creator": {
+          "email": "alon.sela8@gmail.com",
+          "self": true
+        },
+        "organizer": {
+          "email": "alon.sela8@gmail.com",
+          "self": true
+        },
+        "start": {
+          "dateTime": "2024-06-16T10:12:00+03:00",
+          "timeZone": "Asia/Jerusalem"
+        },
+        "end": {
+          "dateTime": "2024-06-16T10:24:00+03:00",
+          "timeZone": "Asia/Jerusalem"
+        },
+        "iCalUID": "6frd0re66dqaphvgiameun4ckg@google.com",
+        "sequence": 0,
+        "reminders": {
+          "useDefault": true
+        },
+        "eventType": "default"
+      },
+      {
+        "kind": "calendar#event",
+        "etag": "\"3426067603720000\"",
+        "id": "2m6p0ba11bha8ddma856ip6uec",
+        "status": "confirmed",
+        "htmlLink": "https://www.google.com/calendar/event?eid=Mm02cDBiYTExYmhhOGRkbWE4NTZpcDZ1ZWMgYWxvbi5zZWxhOEBt",
+        "created": "2024-04-13T18:43:12.000Z",
+        "updated": "2024-04-13T18:43:21.860Z",
+        "summary": "חתונה של קפלן ושחר",
+        "colorId": "4",
+        "creator": {
+          "email": "alon.sela8@gmail.com",
+          "self": true
+        },
+        "organizer": {
+          "email": "alon.sela8@gmail.com",
+          "self": true
+        },
+        "start": {
+          "date": "2024-09-25"
+        },
+        "end": {
+          "date": "2024-09-26"
+        },
+        "transparency": "transparent",
+        "iCalUID": "2m6p0ba11bha8ddma856ip6uec@google.com",
+        "sequence": 1,
+        "reminders": {
+          "useDefault": false,
+          "overrides": [
+            {
+              "method": "popup",
+              "minutes": 30
+            },
+            {
+              "method": "email",
+              "minutes": 450
+            }
+          ]
+        },
+        "eventType": "default"
+      },
+      {
+        "kind": "calendar#event",
+        "etag": "\"3291043260252000\"",
+        "id": "42me9rivg5s7251j60oj313639_20250222",
+        "status": "confirmed",
+        "htmlLink": "https://www.google.com/calendar/event?eid=NDJtZTlyaXZnNXM3MjUxajYwb2ozMTM2MzlfMjAyNTAyMjIgYWxvbi5zZWxhOEBt",
+        "created": "2022-02-08T15:33:55.000Z",
+        "updated": "2022-02-22T09:20:30.126Z",
+        "summary": "יום הולדת לתומר שדה",
+        "colorId": "6",
+        "creator": {
+          "email": "alon.sela8@gmail.com",
+          "self": true
+        },
+        "organizer": {
+          "email": "alon.sela8@gmail.com",
+          "self": true
+        },
+        "start": {
+          "date": "2025-02-22"
+        },
+        "end": {
+          "date": "2025-02-23"
+        },
+        "recurringEventId": "42me9rivg5s7251j60oj313639",
+        "originalStartTime": {
+          "date": "2025-02-22"
+        },
+        "transparency": "transparent",
+        "iCalUID": "42me9rivg5s7251j60oj313639@google.com",
+        "sequence": 2,
+        "reminders": {
+          "useDefault": false,
+          "overrides": [
+            {
+              "method": "popup",
+              "minutes": 30
+            },
+            {
+              "method": "email",
+              "minutes": 450
+            }
+          ]
+        },
+        "eventType": "default"
+      },
+      {
+        "kind": "calendar#event",
+        "etag": "\"3291043294518000\"",
+        "id": "asncp5pvo42hgjmecgksd5kbtg_20250303",
+        "status": "confirmed",
+        "htmlLink": "https://www.google.com/calendar/event?eid=YXNuY3A1cHZvNDJoZ2ptZWNna3NkNWtidGdfMjAyNTAzMDMgYWxvbi5zZWxhOEBt",
+        "created": "2022-02-20T14:55:26.000Z",
+        "updated": "2022-02-22T09:20:47.259Z",
+        "summary": "יום הולדת לבבס",
+        "colorId": "6",
+        "creator": {
+          "email": "alon.sela8@gmail.com",
+          "self": true
+        },
+        "organizer": {
+          "email": "alon.sela8@gmail.com",
+          "self": true
+        },
+        "start": {
+          "date": "2025-03-03"
+        },
+        "end": {
+          "date": "2025-03-04"
+        },
+        "recurringEventId": "asncp5pvo42hgjmecgksd5kbtg",
+        "originalStartTime": {
+          "date": "2025-03-03"
+        },
+        "transparency": "transparent",
+        "iCalUID": "asncp5pvo42hgjmecgksd5kbtg@google.com",
+        "sequence": 1,
+        "reminders": {
+          "useDefault": false,
+          "overrides": [
+            {
+              "method": "popup",
+              "minutes": 30
+            },
+            {
+              "method": "email",
+              "minutes": 450
+            }
+          ]
+        },
+        "eventType": "default"
+      },
+      {
+        "kind": "calendar#event",
+        "etag": "\"3351750633494000\"",
+        "id": "fgeh3gmu6f7c2rf1658r52habc_20250305",
+        "status": "confirmed",
+        "htmlLink": "https://www.google.com/calendar/event?eid=ZmdlaDNnbXU2ZjdjMnJmMTY1OHI1MmhhYmNfMjAyNTAzMDUgYWxvbi5zZWxhOEBt",
+        "created": "2023-02-08T16:55:16.000Z",
+        "updated": "2023-02-08T16:55:16.747Z",
+        "summary": "יומולדת ליפרח",
+        "colorId": "8",
+        "creator": {
+          "email": "alon.sela8@gmail.com",
+          "self": true
+        },
+        "organizer": {
+          "email": "alon.sela8@gmail.com",
+          "self": true
+        },
+        "start": {
+          "date": "2025-03-05"
+        },
+        "end": {
+          "date": "2025-03-06"
+        },
+        "recurringEventId": "fgeh3gmu6f7c2rf1658r52habc",
+        "originalStartTime": {
+          "date": "2025-03-05"
+        },
+        "transparency": "transparent",
+        "iCalUID": "fgeh3gmu6f7c2rf1658r52habc@google.com",
+        "sequence": 0,
+        "reminders": {
+          "useDefault": false,
+          "overrides": [
+            {
+              "method": "popup",
+              "minutes": 30
+            },
+            {
+              "method": "email",
+              "minutes": 450
+            }
+          ]
+        },
+        "eventType": "default"
+      },
+      {
+        "kind": "calendar#event",
+        "etag": "\"3290727742798000\"",
+        "id": "msm6qng72a7lnk00t8eup7c6q0_20250421",
+        "status": "confirmed",
+        "htmlLink": "https://www.google.com/calendar/event?eid=bXNtNnFuZzcyYTdsbmswMHQ4ZXVwN2M2cTBfMjAyNTA0MjEgYWxvbi5zZWxhOEBt",
+        "created": "2022-02-20T13:31:11.000Z",
+        "updated": "2022-02-20T13:31:11.399Z",
+        "summary": "יומולדת לשחף גלזר",
+        "colorId": "6",
+        "creator": {
+          "email": "alon.sela8@gmail.com",
+          "self": true
+        },
+        "organizer": {
+          "email": "alon.sela8@gmail.com",
+          "self": true
+        },
+        "start": {
+          "date": "2025-04-21"
+        },
+        "end": {
+          "date": "2025-04-22"
+        },
+        "recurringEventId": "msm6qng72a7lnk00t8eup7c6q0",
+        "originalStartTime": {
+          "date": "2025-04-21"
+        },
+        "transparency": "transparent",
+        "iCalUID": "msm6qng72a7lnk00t8eup7c6q0@google.com",
+        "sequence": 0,
+        "reminders": {
+          "useDefault": false,
+          "overrides": [
+            {
+              "method": "popup",
+              "minutes": 30
+            },
+            {
+              "method": "email",
+              "minutes": 450
+            }
+          ]
+        },
+        "eventType": "default"
+      },
+      {
+        "kind": "calendar#event",
+        "etag": "\"3408971347533000\"",
+        "id": "70qj0db36ks38bb26ssjab9k6somabb1c8s3cb9p70q3cdpn60o66e9o64_20250513",
+        "status": "confirmed",
+        "htmlLink": "https://www.google.com/calendar/event?eid=NzBxajBkYjM2a3MzOGJiMjZzc2phYjlrNnNvbWFiYjFjOHMzY2I5cDcwcTNjZHBuNjBvNjZlOW82NF8yMDI1MDUxMyBhbG9uLnNlbGE4QG0",
+        "created": "2023-08-30T19:58:59.000Z",
+        "updated": "2023-08-30T19:58:59.925Z",
+        "summary": "חג הפועל ירדה ליגה שמח",
+        "description": "שלום לך הפועל",
+        "location": "יום שישי, ערוץ 5, שעה 15:00",
+        "creator": {
+          "email": "alon.sela8@gmail.com",
+          "self": true
+        },
+        "organizer": {
+          "email": "alon.sela8@gmail.com",
+          "self": true
+        },
+        "start": {
+          "date": "2025-05-13"
+        },
+        "end": {
+          "date": "2025-05-14"
+        },
+        "recurringEventId": "70qj0db36ks38bb26ssjab9k6somabb1c8s3cb9p70q3cdpn60o66e9o64",
+        "originalStartTime": {
+          "date": "2025-05-13"
+        },
+        "transparency": "transparent",
+        "iCalUID": "70qj0db36ks38bb26ssjab9k6somabb1c8s3cb9p70q3cdpn60o66e9o64@google.com",
+        "sequence": 0,
+        "reminders": {
+          "useDefault": false,
+          "overrides": [
+            {
+              "method": "popup",
+              "minutes": 30
+            }
+          ]
+        },
+        "eventType": "default"
+      },
+      {
+        "kind": "calendar#event",
+        "etag": "\"3291043260252000\"",
+        "id": "42me9rivg5s7251j60oj313639_20260222",
+        "status": "confirmed",
+        "htmlLink": "https://www.google.com/calendar/event?eid=NDJtZTlyaXZnNXM3MjUxajYwb2ozMTM2MzlfMjAyNjAyMjIgYWxvbi5zZWxhOEBt",
+        "created": "2022-02-08T15:33:55.000Z",
+        "updated": "2022-02-22T09:20:30.126Z",
+        "summary": "יום הולדת לתומר שדה",
+        "colorId": "6",
+        "creator": {
+          "email": "alon.sela8@gmail.com",
+          "self": true
+        },
+        "organizer": {
+          "email": "alon.sela8@gmail.com",
+          "self": true
+        },
+        "start": {
+          "date": "2026-02-22"
+        },
+        "end": {
+          "date": "2026-02-23"
+        },
+        "recurringEventId": "42me9rivg5s7251j60oj313639",
+        "originalStartTime": {
+          "date": "2026-02-22"
+        },
+        "transparency": "transparent",
+        "iCalUID": "42me9rivg5s7251j60oj313639@google.com",
+        "sequence": 2,
+        "reminders": {
+          "useDefault": false,
+          "overrides": [
+            {
+              "method": "popup",
+              "minutes": 30
+            },
+            {
+              "method": "email",
+              "minutes": 450
+            }
+          ]
+        },
+        "eventType": "default"
+      },
+      {
+        "kind": "calendar#event",
+        "etag": "\"3291043294518000\"",
+        "id": "asncp5pvo42hgjmecgksd5kbtg_20260303",
+        "status": "confirmed",
+        "htmlLink": "https://www.google.com/calendar/event?eid=YXNuY3A1cHZvNDJoZ2ptZWNna3NkNWtidGdfMjAyNjAzMDMgYWxvbi5zZWxhOEBt",
+        "created": "2022-02-20T14:55:26.000Z",
+        "updated": "2022-02-22T09:20:47.259Z",
+        "summary": "יום הולדת לבבס",
+        "colorId": "6",
+        "creator": {
+          "email": "alon.sela8@gmail.com",
+          "self": true
+        },
+        "organizer": {
+          "email": "alon.sela8@gmail.com",
+          "self": true
+        },
+        "start": {
+          "date": "2026-03-03"
+        },
+        "end": {
+          "date": "2026-03-04"
+        },
+        "recurringEventId": "asncp5pvo42hgjmecgksd5kbtg",
+        "originalStartTime": {
+          "date": "2026-03-03"
+        },
+        "transparency": "transparent",
+        "iCalUID": "asncp5pvo42hgjmecgksd5kbtg@google.com",
+        "sequence": 1,
+        "reminders": {
+          "useDefault": false,
+          "overrides": [
+            {
+              "method": "popup",
+              "minutes": 30
+            },
+            {
+              "method": "email",
+              "minutes": 450
+            }
+          ]
+        },
+        "eventType": "default"
+      },
+      {
+        "kind": "calendar#event",
+        "etag": "\"3351750633494000\"",
+        "id": "fgeh3gmu6f7c2rf1658r52habc_20260305",
+        "status": "confirmed",
+        "htmlLink": "https://www.google.com/calendar/event?eid=ZmdlaDNnbXU2ZjdjMnJmMTY1OHI1MmhhYmNfMjAyNjAzMDUgYWxvbi5zZWxhOEBt",
+        "created": "2023-02-08T16:55:16.000Z",
+        "updated": "2023-02-08T16:55:16.747Z",
+        "summary": "יומולדת ליפרח",
+        "colorId": "8",
+        "creator": {
+          "email": "alon.sela8@gmail.com",
+          "self": true
+        },
+        "organizer": {
+          "email": "alon.sela8@gmail.com",
+          "self": true
+        },
+        "start": {
+          "date": "2026-03-05"
+        },
+        "end": {
+          "date": "2026-03-06"
+        },
+        "recurringEventId": "fgeh3gmu6f7c2rf1658r52habc",
+        "originalStartTime": {
+          "date": "2026-03-05"
+        },
+        "transparency": "transparent",
+        "iCalUID": "fgeh3gmu6f7c2rf1658r52habc@google.com",
+        "sequence": 0,
+        "reminders": {
+          "useDefault": false,
+          "overrides": [
+            {
+              "method": "popup",
+              "minutes": 30
+            },
+            {
+              "method": "email",
+              "minutes": 450
+            }
+          ]
+        },
+        "eventType": "default"
+      },
+      {
+        "kind": "calendar#event",
+        "etag": "\"3290727742798000\"",
+        "id": "msm6qng72a7lnk00t8eup7c6q0_20260421",
+        "status": "confirmed",
+        "htmlLink": "https://www.google.com/calendar/event?eid=bXNtNnFuZzcyYTdsbmswMHQ4ZXVwN2M2cTBfMjAyNjA0MjEgYWxvbi5zZWxhOEBt",
+        "created": "2022-02-20T13:31:11.000Z",
+        "updated": "2022-02-20T13:31:11.399Z",
+        "summary": "יומולדת לשחף גלזר",
+        "colorId": "6",
+        "creator": {
+          "email": "alon.sela8@gmail.com",
+          "self": true
+        },
+        "organizer": {
+          "email": "alon.sela8@gmail.com",
+          "self": true
+        },
+        "start": {
+          "date": "2026-04-21"
+        },
+        "end": {
+          "date": "2026-04-22"
+        },
+        "recurringEventId": "msm6qng72a7lnk00t8eup7c6q0",
+        "originalStartTime": {
+          "date": "2026-04-21"
+        },
+        "transparency": "transparent",
+        "iCalUID": "msm6qng72a7lnk00t8eup7c6q0@google.com",
+        "sequence": 0,
+        "reminders": {
+          "useDefault": false,
+          "overrides": [
+            {
+              "method": "popup",
+              "minutes": 30
+            },
+            {
+              "method": "email",
+              "minutes": 450
+            }
+          ]
+        },
+        "eventType": "default"
+      },
+      {
+        "kind": "calendar#event",
+        "etag": "\"3435018261250000\"",
+        "id": "0q32v51ntnfl1nro9k4ukv71ms",
+        "status": "confirmed",
+        "htmlLink": "https://www.google.com/calendar/event?eid=MHEzMnY1MW50bmZsMW5ybzlrNHVrdjcxbXMgYWxvbi5zZWxhOEBt",
+        "created": "2024-06-04T13:52:10.000Z",
+        "updated": "2024-06-04T13:52:10.625Z",
+        "summary": "Tomer ha gay",
+        "creator": {
+          "email": "alon.sela8@gmail.com",
+          "self": true
+        },
+        "organizer": {
+          "email": "alon.sela8@gmail.com",
+          "self": true
+        },
+        "start": {
+          "dateTime": "2024-06-04T18:00:00+03:00",
+          "timeZone": "Asia/Jerusalem"
+        },
+        "end": {
+          "dateTime": "2024-06-04T20:00:00+03:00",
+          "timeZone": "Asia/Jerusalem"
+        },
+        "iCalUID": "0q32v51ntnfl1nro9k4ukv71ms@google.com",
+        "sequence": 0,
+        "reminders": {
+          "useDefault": true
+        },
+        "eventType": "default"
+      }
+    ],
+    "freeTime": [
+      {
+        "start": "2024-06-04T12:36:25",
+        "end": "2024-06-04T12:36:25",
+        "duration": 0
+      },
+      {
+        "start": "2024-06-04T12:36:25",
+        "end": "2024-06-04T12:36:25",
+        "duration": 0
+      },
+      {
+        "start": "2024-06-04T12:36:25",
+        "end": "2024-06-04T21:36:25",
+        "duration": 539
+      },
+      {
+        "start": "2024-06-05T07:00:00",
+        "end": "2024-06-05T21:00:00",
+        "duration": 840
+      },
+      {
+        "start": "2024-06-06T07:00:00",
+        "end": "2024-06-06T21:00:00",
+        "duration": 840
+      },
+      {
+        "start": "2024-06-07T07:00:00",
+        "end": "2024-06-07T21:00:00",
+        "duration": 840
+      },
+      {
+        "start": "2024-06-08T07:00:00",
+        "end": "2024-06-08T21:00:00",
+        "duration": 840
+      },
+      {
+        "start": "2024-06-09T07:00:00",
+        "end": "2024-06-09T21:00:00",
+        "duration": 840
+      },
+      {
+        "start": "2024-06-10T07:00:00",
+        "end": "2024-06-10T21:00:00",
+        "duration": 840
+      },
+      {
+        "start": "2024-06-11T07:00:00",
+        "end": "2024-06-11T21:00:00",
+        "duration": 840
+      }
+    ]
+  },
+  {
+    "id": "611052d5-4fb1-4419-a73f-312e577c83d9",
+    "username": "shahafglazer",
+    "email": "shahafglazer@gmail.com",
+    "password": "123456789",
+    "events": [
+      {
+        "kind": "calendar#event",
+        "etag": "\"3430354535284000\"",
+        "id": "75j6ce316gr3gbb66co38b9kccsjcbb171gm2b9h6pi38c1mc9j68cpl60",
+        "status": "confirmed",
+        "htmlLink": "https://www.google.com/calendar/event?eid=NzVqNmNlMzE2Z3IzZ2JiNjZjbzM4YjlrY2NzamNiYjE3MWdtMmI5aDZwaTM4YzFtYzlqNjhjcGw2MCBzaGFoYWZnbGF6ZXJAbQ",
+        "created": "2024-05-08T14:07:47.000Z",
+        "updated": "2024-05-08T14:07:47.642Z",
+        "summary": "חתונה של יעלי",
+        "creator": {
+          "email": "shahafglazer@gmail.com",
+          "self": true
+        },
+        "organizer": {
+          "email": "shahafglazer@gmail.com",
+          "self": true
+        },
+        "start": {
+          "date": "2024-06-07"
+        },
+        "end": {
+          "date": "2024-06-08"
+        },
+        "iCalUID": "75j6ce316gr3gbb66co38b9kccsjcbb171gm2b9h6pi38c1mc9j68cpl60@google.com",
+        "sequence": 0,
+        "guestsCanInviteOthers": false,
+        "guestsCanSeeOtherGuests": false,
+        "reminders": {
+          "useDefault": false,
+          "overrides": [
+            {
+              "method": "popup",
+              "minutes": 420
+            }
+          ]
+        },
+        "eventType": "default"
+      },
+      {
+        "kind": "calendar#event",
+        "etag": "\"3433439692114000\"",
+        "id": "6sr36d36c4rm6bb3c4s3gb9k74qmab9p6osjgbb56hh64e9o6oojid1occ",
+        "status": "confirmed",
+        "htmlLink": "https://www.google.com/calendar/event?eid=NnNyMzZkMzZjNHJtNmJiM2M0czNnYjlrNzRxbWFiOXA2b3NqZ2JiNTZoaDY0ZTlvNm9vamlkMW9jYyBzaGFoYWZnbGF6ZXJAbQ",
+        "created": "2024-05-26T10:37:26.000Z",
+        "updated": "2024-05-26T10:37:26.057Z",
+        "summary": "יום הולדת לשיקו 14:00",
+        "creator": {
+          "email": "shahafglazer@gmail.com",
+          "self": true
+        },
+        "organizer": {
+          "email": "shahafglazer@gmail.com",
+          "self": true
+        },
+        "start": {
+          "dateTime": "2024-06-08T14:00:00+03:00",
+          "timeZone": "Asia/Jerusalem"
+        },
+        "end": {
+          "dateTime": "2024-06-08T15:00:00+03:00",
+          "timeZone": "Asia/Jerusalem"
+        },
+        "iCalUID": "6sr36d36c4rm6bb3c4s3gb9k74qmab9p6osjgbb56hh64e9o6oojid1occ@google.com",
+        "sequence": 0,
+        "guestsCanInviteOthers": false,
+        "guestsCanSeeOtherGuests": false,
+        "reminders": {
+          "useDefault": false,
+          "overrides": [
+            {
+              "method": "popup",
+              "minutes": 10
+            }
+          ]
+        },
+        "eventType": "default"
+      },
+      {
+        "kind": "calendar#event",
+        "etag": "\"3433111827852000\"",
+        "id": "ckom2ob5cgrm2b9i6hh32b9kc4r36b9o74sj6bb66cq3ipj6cor3aopo70",
+        "status": "confirmed",
+        "htmlLink": "https://www.google.com/calendar/event?eid=Y2tvbTJvYjVjZ3JtMmI5aTZoaDMyYjlrYzRyMzZiOW83NHNqNmJiNjZjcTNpcGo2Y29yM2FvcG83MCBzaGFoYWZnbGF6ZXJAbQ",
+        "created": "2024-05-24T13:05:13.000Z",
+        "updated": "2024-05-24T13:05:13.926Z",
+        "summary": "מפגש מסחר עם שקד 19:30",
+        "location": "המרד 25, תל אביב",
+        "colorId": "11",
+        "creator": {
+          "email": "shahafglazer@gmail.com",
+          "self": true
+        },
+        "organizer": {
+          "email": "shahafglazer@gmail.com",
+          "self": true
+        },
+        "start": {
+          "dateTime": "2024-06-10T19:30:00+03:00",
+          "timeZone": "Africa/Cairo"
+        },
+        "end": {
+          "dateTime": "2024-06-10T21:30:00+03:00",
+          "timeZone": "Africa/Cairo"
+        },
+        "iCalUID": "ckom2ob5cgrm2b9i6hh32b9kc4r36b9o74sj6bb66cq3ipj6cor3aopo70@google.com",
+        "sequence": 0,
+        "guestsCanInviteOthers": false,
+        "guestsCanSeeOtherGuests": false,
+        "reminders": {
+          "useDefault": false,
+          "overrides": [
+            {
+              "method": "popup",
+              "minutes": 10
+            }
+          ]
+        },
+        "eventType": "default"
+      },
+      {
+        "kind": "calendar#event",
+        "etag": "\"3429804184344000\"",
+        "id": "61h34c1iccp3gb9kc8s36b9k74o68bb161h34b9i60pjge9o6srj0phmcc",
+        "status": "confirmed",
+        "htmlLink": "https://www.google.com/calendar/event?eid=NjFoMzRjMWljY3AzZ2I5a2M4czM2YjlrNzRvNjhiYjE2MWgzNGI5aTYwcGpnZTlvNnNyajBwaG1jYyBzaGFoYWZnbGF6ZXJAbQ",
+        "created": "2024-05-05T09:41:32.000Z",
+        "updated": "2024-05-05T09:41:32.172Z",
+        "summary": "ארוחת שבועות אצל אמא ואבא 19:00",
+        "creator": {
+          "email": "shahafglazer@gmail.com",
+          "self": true
+        },
+        "organizer": {
+          "email": "shahafglazer@gmail.com",
+          "self": true
+        },
+        "start": {
+          "dateTime": "2024-06-11T19:00:00+03:00",
+          "timeZone": "Asia/Jerusalem"
+        },
+        "end": {
+          "dateTime": "2024-06-11T20:00:00+03:00",
+          "timeZone": "Asia/Jerusalem"
+        },
+        "iCalUID": "61h34c1iccp3gb9kc8s36b9k74o68bb161h34b9i60pjge9o6srj0phmcc@google.com",
+        "sequence": 0,
+        "guestsCanInviteOthers": false,
+        "guestsCanSeeOtherGuests": false,
+        "reminders": {
+          "useDefault": false,
+          "overrides": [
+            {
+              "method": "popup",
+              "minutes": 10
+            }
+          ]
+        },
+        "eventType": "default"
+      },
+      {
+        "kind": "calendar#event",
+        "etag": "\"3431595707874000\"",
+        "id": "cgp3ee9kc8q3eb9icgsjab9k6gq34b9p6ks3gb9gcgpjcp1p6hh38dhjcc",
+        "status": "confirmed",
+        "htmlLink": "https://www.google.com/calendar/event?eid=Y2dwM2VlOWtjOHEzZWI5aWNnc2phYjlrNmdxMzRiOXA2a3MzZ2I5Z2NncGpjcDFwNmhoMzhkaGpjYyBzaGFoYWZnbGF6ZXJAbQ",
+        "created": "2024-05-15T18:30:53.000Z",
+        "updated": "2024-05-15T18:30:53.937Z",
+        "summary": "קמפינג",
+        "creator": {
+          "email": "shahafglazer@gmail.com",
+          "self": true
+        },
+        "organizer": {
+          "email": "shahafglazer@gmail.com",
+          "self": true
+        },
+        "start": {
+          "date": "2024-06-14"
+        },
+        "end": {
+          "date": "2024-06-16"
+        },
+        "iCalUID": "cgp3ee9kc8q3eb9icgsjab9k6gq34b9p6ks3gb9gcgpjcp1p6hh38dhjcc@google.com",
+        "sequence": 0,
+        "guestsCanInviteOthers": false,
+        "guestsCanSeeOtherGuests": false,
+        "reminders": {
+          "useDefault": false,
+          "overrides": [
+            {
+              "method": "popup",
+              "minutes": 420
+            }
+          ]
+        },
+        "eventType": "default"
+      },
+      {
+        "kind": "calendar#event",
+        "etag": "\"3433633875672000\"",
+        "id": "6cp3cp1k6ksjab9mckr32b9kcgojcb9p60sj0bb6coom4dpl60q3ad9jc4",
+        "status": "confirmed",
+        "htmlLink": "https://www.google.com/calendar/event?eid=NmNwM2NwMWs2a3NqYWI5bWNrcjMyYjlrY2dvamNiOXA2MHNqMGJiNmNvb200ZHBsNjBxM2FkOWpjNCBzaGFoYWZnbGF6ZXJAbQ",
+        "created": "2024-05-27T13:33:08.000Z",
+        "updated": "2024-05-27T13:35:37.836Z",
+        "summary": "הצגת סופית אקסלרטור",
+        "colorId": "10",
+        "creator": {
+          "email": "shahafglazer@gmail.com",
+          "self": true
+        },
+        "organizer": {
+          "email": "shahafglazer@gmail.com",
+          "self": true
+        },
+        "start": {
+          "date": "2024-06-19"
+        },
+        "end": {
+          "date": "2024-06-20"
+        },
+        "iCalUID": "6cp3cp1k6ksjab9mckr32b9kcgojcb9p60sj0bb6coom4dpl60q3ad9jc4@google.com",
+        "sequence": 0,
+        "guestsCanInviteOthers": false,
+        "guestsCanSeeOtherGuests": false,
+        "reminders": {
+          "useDefault": false,
+          "overrides": [
+            {
+              "method": "popup",
+              "minutes": 420
+            }
+          ]
+        },
+        "eventType": "default"
+      },
+      {
+        "kind": "calendar#event",
+        "etag": "\"3433633876878000\"",
+        "id": "c8qm8cpo6opm8bb46pgmcb9k6cr3ab9o6ti3ibb6clgjcd346crm6e9m60",
+        "status": "confirmed",
+        "htmlLink": "https://www.google.com/calendar/event?eid=YzhxbThjcG82b3BtOGJiNDZwZ21jYjlrNmNyM2FiOW82dGkzaWJiNmNsZ2pjZDM0NmNybTZlOW02MCBzaGFoYWZnbGF6ZXJAbQ",
+        "created": "2024-05-27T13:35:38.000Z",
+        "updated": "2024-05-27T13:35:38.439Z",
+        "summary": "הצגת סופית ליהי",
+        "colorId": "10",
+        "creator": {
+          "email": "shahafglazer@gmail.com",
+          "self": true
+        },
+        "organizer": {
+          "email": "shahafglazer@gmail.com",
+          "self": true
+        },
+        "start": {
+          "date": "2024-06-24"
+        },
+        "end": {
+          "date": "2024-06-25"
+        },
+        "iCalUID": "c8qm8cpo6opm8bb46pgmcb9k6cr3ab9o6ti3ibb6clgjcd346crm6e9m60@google.com",
+        "sequence": 0,
+        "guestsCanInviteOthers": false,
+        "guestsCanSeeOtherGuests": false,
+        "reminders": {
+          "useDefault": false,
+          "overrides": [
+            {
+              "method": "popup",
+              "minutes": 420
+            }
+          ]
+        },
+        "eventType": "default"
+      },
+      {
+        "kind": "calendar#event",
+        "etag": "\"3433111829190000\"",
+        "id": "cksjcpb6c9j6cb9hcpi6ab9kccq3gb9pchh30bb56oqjaphnc5h6aohl68",
+        "status": "confirmed",
+        "htmlLink": "https://www.google.com/calendar/event?eid=Y2tzamNwYjZjOWo2Y2I5aGNwaTZhYjlrY2NxM2diOXBjaGgzMGJiNTZvcWphcGhuYzVoNmFvaGw2OCBzaGFoYWZnbGF6ZXJAbQ",
+        "created": "2024-05-24T13:05:14.000Z",
+        "updated": "2024-05-24T13:05:14.595Z",
+        "summary": "מפגש מסחר עם שקד 19:30",
+        "location": "המרד 25, תל אביב",
+        "colorId": "11",
+        "creator": {
+          "email": "shahafglazer@gmail.com",
+          "self": true
+        },
+        "organizer": {
+          "email": "shahafglazer@gmail.com",
+          "self": true
+        },
+        "start": {
+          "dateTime": "2024-06-24T19:30:00+03:00",
+          "timeZone": "Africa/Cairo"
+        },
+        "end": {
+          "dateTime": "2024-06-24T21:30:00+03:00",
+          "timeZone": "Africa/Cairo"
+        },
+        "iCalUID": "cksjcpb6c9j6cb9hcpi6ab9kccq3gb9pchh30bb56oqjaphnc5h6aohl68@google.com",
+        "sequence": 0,
+        "guestsCanInviteOthers": false,
+        "guestsCanSeeOtherGuests": false,
+        "reminders": {
+          "useDefault": false,
+          "overrides": [
+            {
+              "method": "popup",
+              "minutes": 10
+            }
+          ]
+        },
+        "eventType": "default"
+      },
+      {
+        "kind": "calendar#event",
+        "etag": "\"3433111901582000\"",
+        "id": "coo68c34cdgmcb9kchh6ab9kchi3gbb160q3gb9mcks68cb365h30ob2ck",
+        "status": "confirmed",
+        "htmlLink": "https://www.google.com/calendar/event?eid=Y29vNjhjMzRjZGdtY2I5a2NoaDZhYjlrY2hpM2diYjE2MHEzZ2I5bWNrczY4Y2IzNjVoMzBvYjJjayBzaGFoYWZnbGF6ZXJAbQ",
+        "created": "2024-05-24T13:05:50.000Z",
+        "updated": "2024-05-24T13:05:50.791Z",
+        "summary": "מפגש מסחר עם שקד 19:30",
+        "location": "המרד 25, תל אביב",
+        "colorId": "11",
+        "creator": {
+          "email": "shahafglazer@gmail.com",
+          "self": true
+        },
+        "organizer": {
+          "email": "shahafglazer@gmail.com",
+          "self": true
+        },
+        "start": {
+          "dateTime": "2024-07-08T19:30:00+03:00",
+          "timeZone": "Africa/Cairo"
+        },
+        "end": {
+          "dateTime": "2024-07-08T21:30:00+03:00",
+          "timeZone": "Africa/Cairo"
+        },
+        "iCalUID": "coo68c34cdgmcb9kchh6ab9kchi3gbb160q3gb9mcks68cb365h30ob2ck@google.com",
+        "sequence": 0,
+        "guestsCanInviteOthers": false,
+        "guestsCanSeeOtherGuests": false,
+        "reminders": {
+          "useDefault": false,
+          "overrides": [
+            {
+              "method": "popup",
+              "minutes": 10
+            }
+          ]
+        },
+        "eventType": "default"
+      },
+      {
+        "kind": "calendar#event",
+        "etag": "\"3433112007066000\"",
+        "id": "ckqj2cpp60r66b9p64pjib9k6cq64bb161i3eb9p6cq32opn68rm6cb1cc",
+        "status": "confirmed",
+        "htmlLink": "https://www.google.com/calendar/event?eid=Y2txajJjcHA2MHI2NmI5cDY0cGppYjlrNmNxNjRiYjE2MWkzZWI5cDZjcTMyb3BuNjhybTZjYjFjYyBzaGFoYWZnbGF6ZXJAbQ",
+        "created": "2024-05-24T13:06:43.000Z",
+        "updated": "2024-05-24T13:06:43.533Z",
+        "summary": "מפגש מסחר עם שקד 19:30",
+        "location": "המרד 25, תל אביב",
+        "colorId": "11",
+        "creator": {
+          "email": "shahafglazer@gmail.com",
+          "self": true
+        },
+        "organizer": {
+          "email": "shahafglazer@gmail.com",
+          "self": true
+        },
+        "start": {
+          "dateTime": "2024-07-22T19:30:00+03:00",
+          "timeZone": "Africa/Cairo"
+        },
+        "end": {
+          "dateTime": "2024-07-22T20:30:00+03:00",
+          "timeZone": "Africa/Cairo"
+        },
+        "iCalUID": "ckqj2cpp60r66b9p64pjib9k6cq64bb161i3eb9p6cq32opn68rm6cb1cc@google.com",
+        "sequence": 0,
+        "guestsCanInviteOthers": false,
+        "guestsCanSeeOtherGuests": false,
+        "reminders": {
+          "useDefault": false,
+          "overrides": [
+            {
+              "method": "popup",
+              "minutes": 10
+            }
+          ]
+        },
+        "eventType": "default"
+      }
+    ],
+    "freeTime": [
+      {
+        "start": "2024-06-04T17:27:09",
+        "end": "2024-06-04T17:27:09",
+        "duration": 0
+      },
+      {
+        "start": "2024-06-04T17:27:09",
+        "end": "2024-06-04T17:27:09",
+        "duration": 0
+      },
+      {
+        "start": "2024-06-04T17:27:09",
+        "end": "2024-06-04T21:27:09",
+        "duration": 239
+      },
+      {
+        "start": "2024-06-05T07:00:00",
+        "end": "2024-06-05T21:00:00",
+        "duration": 840
+      },
+      {
+        "start": "2024-06-06T07:00:00",
+        "end": "2024-06-06T21:00:00",
+        "duration": 840
+      },
+      {
+        "start": "2024-06-07T07:00:00",
+        "end": "2024-06-07T21:00:00",
+        "duration": 840
+      },
+      {
+        "start": "2024-06-08T07:00:00",
+        "end": "2024-06-08T14:00:00",
+        "duration": 420
+      },
+      {
+        "start": "2024-06-08T15:00:00",
+        "end": "2024-06-08T21:00:00",
+        "duration": 360
+      },
+      {
+        "start": "2024-06-09T07:00:00",
+        "end": "2024-06-09T21:00:00",
+        "duration": 840
+      },
+      {
+        "start": "2024-06-10T07:00:00",
+        "end": "2024-06-10T19:30:00",
+        "duration": 750
+      },
+      {
+        "start": "2024-06-11T07:00:00",
+        "end": "2024-06-11T19:00:00",
+        "duration": 720
+      },
+      {
+        "start": "2024-06-11T20:00:00",
+        "end": "2024-06-11T21:00:00",
+        "duration": 60
+      }
+    ]
+  }
+]

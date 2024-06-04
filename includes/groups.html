@@ -1,0 +1,80 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<title>Groups</title>
+	<link rel="stylesheet" href="../css/all.min.css"> <!-- https://fontawesome.com/ -->
+	<link href="https://fonts.googleapis.com/css2?family=Source+Sans+Pro&display=swap" rel="stylesheet"> <!-- https://fonts.google.com/ -->
+	<link href="../css/magnific-popup.min.css" rel="stylesheet">
+    <link href="../css/tooplate-style.css" rel="stylesheet">
+
+</head>
+<body>
+	<div class="tm-container-fluid">
+		<li>
+			<a class="nav-link" href="HomePage.html">Home</a>
+		</li>
+		<section class="tm-about tm-mb-80 tm-p-50 tm-bgcolor-2 tm-border-rounded">
+			<div class="tm-about-header tm-flex-center">
+				<i class="fas fa-users fa-2x"></i>
+				<h2>Create A Group</h2>
+			</div>
+			<div class="tm-about-text">
+				<p class="tm-mb-40">
+					<form id="createGroupForm">
+						<label for="groupName">Group Name:</label>
+						<input type="text" id="groupName" name="groupName" required>
+						<button type="submit">Create Group</button>
+					</form>
+				</p>
+			</div>
+		</section>
+
+		<section class="tm-about tm-mb-80 tm-p-50 tm-bgcolor-2 tm-border-rounded">
+			<div class="tm-about-header tm-flex-center">
+				<i class="fas fa-users fa-2x"></i>
+				<h2>Add User To A Group</h2>
+			</div>
+			<div class="tm-about-text">
+				<p class="tm-mb-40">
+					<form id="addUserForm">
+						<label for="groupNameAddUser">Group Name:</label>
+						<input type="text" id="groupNameAddUser" name="groupName" required>
+						<br>
+						<label for="username">Username:</label>
+						<input type="text" id="username" name="username" required>
+						<button type="submit">Add User to Group</button>
+					</form>
+				</p>
+			</div>
+		</section>
+
+		
+		<section class="tm-about tm-mb-80 tm-p-50 tm-bgcolor-2 tm-border-rounded">
+			<div class="tm-about-header tm-flex-center">
+			  <i class="fas fa-users fa-2x"></i>
+			  <h2>Find Common Slots</h2>
+			</div>
+			<div class="tm-about-text">
+			  <p class="tm-mb-40">
+				<label for="groupNameCommonSlots">Group Name:</label>
+				<input type="text" id="groupNameCommonSlots" name="groupName" required>
+				<button type="submit" id="calculateBtn">Calculate Common Slots</button>
+				<div id="resultContainer"></div>
+			  </p>
+			</div>
+		  </section>
+
+		<footer class="tm-footer">
+			Copyright 2024 SmartOrganizer </a>
+		</footer>
+	</div>
+
+	<script src="../js/jquery.min.js"></script>
+	<script src="../js/imagesloaded.pkgd.min.js"></script>
+	<script src="../js/isotope.pkgd.min.js"></script>
+	<script src="../js/jquery.magnific-popup.min.js"></script>
+	<script src="../js/groups.js"></script>
+</body>
+</html>
